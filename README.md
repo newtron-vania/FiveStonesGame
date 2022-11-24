@@ -1,5 +1,7 @@
 # Five Stones Game Using Multithread Programming
 
+프로젝트 링크 : https://github.com/newtron-vania/FiveStonesGame
+
 ## 자바 스윙을 이용한 멀티스레딩 기반 오목게임
 
 오목은 우리가 어렸을 적부터 해왔던 간단하지만 재미있는 규칙을  가진 놀이다.  소켓 프로그래밍을 이용하여 호스트 간의 데이터의 전달이 가능한 것을 이용하여 다수의 호스트 간의 채팅과 오목을 할 수 있는 로비와 오목 알고리즘을 구현하였다.
